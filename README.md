@@ -113,7 +113,7 @@ BNSF framework classes are documented using a variation of the Class Responsibil
 
 Users of BNSF are assumed to be programmers or readers with access to source code. As noted above, use of a PDE will make BNSF much more accessible. As frameworks go, BNSF should be considered a still immature member of the species with considerable room for further development.
 
-For questions or comments regarding this software, please contact John L Baker at jbakerb-at-gmu.edu (replace -at- with @).
+For questions or comments regarding this software, please contact John L Baker at jbakerb@gmu.edu.
 
 ---
 
